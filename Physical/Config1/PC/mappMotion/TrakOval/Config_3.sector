@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Configuration>
+  <Element ID="Spawn_Sector" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_01" />
+      </Group>
+      <Group ID="IntermediateSegments">
+        <Property ID="SegmentRef[1]" Value="::SEG_02" />
+        <Property ID="SegmentRef[2]" Value="::SEG_03" />
+        <Property ID="SegmentRef[3]" Value="::SEG_04" />
+        <Property ID="SegmentRef[4]" Value="::SEG_05" />
+        <Property ID="SegmentRef[5]" Value="::SEG_06" />
+        <Property ID="SegmentRef[6]" Value="::SEG_07" />
+        <Property ID="SegmentRef[7]" Value="::SEG_08" />
+        <Property ID="SegmentRef[8]" Value="::SEG_09" />
+        <Property ID="SegmentRef[9]" Value="::SEG_10" />
+        <Property ID="SegmentRef[10]" Value="::SEG_11" />
+        <Property ID="SegmentRef[11]" Value="::SEG_12" />
+        <Property ID="SegmentRef[12]" Value="::SEG_13" />
+        <Property ID="SegmentRef[13]" Value="::SEG_14" />
+        <Property ID="SegmentRef[14]" Value="::SEG_15" />
+        <Property ID="SegmentRef[15]" Value="::SEG_16" />
+        <Property ID="SegmentRef[16]" Value="::SEG_17" />
+        <Property ID="SegmentRef[17]" Value="::SEG_18" />
+        <Property ID="SegmentRef[18]" Value="::SEG_19" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_20" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Load_Unload_Sector" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_44" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_44" />
+        <Property ID="Position" Value="0.330" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Process_1_Sector" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_18" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_18" />
+        <Property ID="Position" Value="0.120" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Process_2_Sector" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_30" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_30" />
+        <Property ID="Position" Value="0.330" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Process_3_Sector" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_56" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_56" />
+        <Property ID="Position" Value="0.225" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Reject_LeftUp" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_70" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+      <Group ID="IntermediateSegments">
+        <Property ID="SegmentRef[1]" Value="::SEG_69" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_68" />
+        <Property ID="Position" Value="0" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Reject_RightUp" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_67" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_67" />
+        <Property ID="Position" Value="0" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Reject_RightDown" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_67" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+      <Group ID="IntermediateSegments">
+        <Property ID="SegmentRef[1]" Value="::SEG_66" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_65" />
+        <Property ID="Position" Value="0" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Flipper_LeftUp" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_64" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+      <Group ID="IntermediateSegments">
+        <Property ID="SegmentRef[1]" Value="::SEG_63" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_62" />
+        <Property ID="Position" Value="0" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Flipper_RightUp" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_61" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_61" />
+        <Property ID="Position" Value="0" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+    </Selector>
+  </Element>
+  <Element ID="Flipper_RightDown" Type="sector">
+    <Selector ID="Type" Value="Composed">
+      <Group ID="StartSegment">
+        <Property ID="SegmentRef" Value="::SEG_61" />
+        <Property ID="PositionRelativeTo" Value="FromEnd" />
+      </Group>
+      <Group ID="IntermediateSegments">
+        <Property ID="SegmentRef[1]" Value="::SEG_60" />
+      </Group>
+      <Group ID="EndSegment">
+        <Property ID="SegmentRef" Value="::SEG_59" />
+        <Property ID="Position" Value="0" />
+      </Group>
+    </Selector>
+  </Element>
+</Configuration>

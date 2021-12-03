@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Configuration>
+  <Element ID="PP_List" Type="processpointlist">
+    <Selector ID="ProcessPoint[0]">
+      <Property ID="Name" Value="PP_Load_Unload" />
+      <Property ID="SectorRef" Value="Load_Unload_Sector" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+    <Selector ID="ProcessPoint[1]">
+      <Property ID="Name" Value="PP_Process_1" />
+      <Property ID="SectorRef" Value="Process_1_Sector" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+    <Selector ID="ProcessPoint[2]">
+      <Property ID="Name" Value="PP_Process_2" />
+      <Property ID="SectorRef" Value="Process_2_Sector" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+    <Selector ID="ProcessPoint[3]">
+      <Property ID="Name" Value="PP_Process_3" />
+      <Property ID="SectorRef" Value="Process_3_Sector" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+    <Selector ID="ProcessPoint[4]">
+      <Property ID="Name" Value="PP_Reject" />
+      <Property ID="SectorRef" Value="Reject_LeftUp" />
+      <Property ID="Position" Value="0.915" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+    <Selector ID="ProcessPoint[5]">
+      <Property ID="Name" Value="PP_Flipper" />
+      <Property ID="SectorRef" Value="Flipper_LeftUp" />
+      <Property ID="Position" Value="0.915" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+    <Selector ID="ProcessPoint[6]">
+      <Property ID="Name" Value="PP_RejectEntrance" />
+      <Property ID="SectorRef" Value="Reject_LeftUp" />
+      <Property ID="Position" Value="0.57" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="On" />
+    </Selector>
+    <Selector ID="ProcessPoint[7]">
+      <Property ID="Name" Value="PP_RejectExit" />
+      <Property ID="SectorRef" Value="Reject_RightDown" />
+      <Property ID="Position" Value="0.57" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+    <Selector ID="ProcessPoint[8]">
+      <Property ID="Name" Value="PP_FlipperEntrance" />
+      <Property ID="SectorRef" Value="Flipper_LeftUp" />
+      <Property ID="Position" Value="0.57" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="On" />
+    </Selector>
+    <Selector ID="ProcessPoint[9]">
+      <Property ID="Name" Value="PP_FlipperExit" />
+      <Property ID="SectorRef" Value="Flipper_RightDown" />
+      <Property ID="Position" Value="0.57" />
+      <Property ID="TriggerEventBufferSize" Value="10" />
+      <Selector ID="BarrierFunctionality" Value="Off" />
+    </Selector>
+  </Element>
+</Configuration>

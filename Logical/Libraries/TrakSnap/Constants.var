@@ -1,0 +1,32 @@
+(*TRAK SNAP*)
+VAR CONSTANT
+	TRAKSNAP_NUM_SHUTTLES : UINT := 50;
+END_VAR
+(**)
+(*SNAP CAP*)
+(*Error Numbers*)
+VAR CONSTANT
+	CAP_RECIPE_INIT_FAILED : DINT := -60000; (*Error when enabling the recipe FUBs*)
+	CAP_GET_SHUTTLES_FAILED : DINT := -60001; (*Error with the AsmGetShuttle FUB*)
+	CAP_TOO_MANY_SHUTTLES : DINT := -60002; (*TotalCount > TRAKSNAP_NUM_SHUTTLES. Config is higher than library constant*)
+	CAP_READ_SEGMENT_INFO_FAILED : DINT := -61000; (*Error with ShReadSectorPos FUB. The index of the shuttle will be added to -61000 for better troubleshooting.*)
+	CAP_READ_SHUTTLE_INFO_FAILED : DINT := -62000; (*Error with ShReadInfo FUB. The index of the shuttle will be added to -62000 for better troubleshooting.*)
+	CAP_GET_USERDATA_FAILED : DINT := -63000; (*Error with ShCopyUserData FUB. The index of the shuttle will be added to -63000 for better troubleshooting.*)
+	CAP_SAVE_RECIPE_FAILED : DINT := -60003; (*Error on the recipe FUBs when saving the recipe*)
+END_VAR
+(**)
+(*SNAP SPAWN*)
+(*Error Numbers*)
+VAR CONSTANT
+	SPAWN_RECIPE_INIT_FAILED : DINT := -60004; (*Error when enabling the recipe FUBs*)
+	SPAWN_SNAPSHOT_TO_LOAD_EMPTY : DINT := -60005; (*The parameter "SnapshotToLoad" is empty*)
+	SPAWN_LOAD_RECIPE_FAILED : DINT := -60006; (*Error on the recipe FUBs when loading the recipe*)
+	SPAWN_NO_POS_FOR_SHUTTLE_SPAWN : DINT := -64000; (*ShReadInfo and ShReadSegmentInfo both lacked references. The index of the shuttle will be added to -64000 for better troubleshooting.*)
+	SPAWN_ADD_SHUTTLE_FAILED : DINT := -65000; (*Error with SecAddShuttle FUB. The index of the shuttle will be added to -64000 for better troubleshooting.*)
+	SPAWN_SET_USERDATA_FAILED : DINT := -66000; (*Error with ShCopyUserData FUB. The index of the shuttle will be added to -65000 for better troubleshooting.*)
+END_VAR
+(**)
+(*EPOCH CONVERTER*)
+VAR CONSTANT
+	EPOCH_OFFSET : DINT := 0; (*Past Values: 24513, -48657, -24144*)
+END_VAR

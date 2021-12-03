@@ -1,0 +1,10 @@
+VAR
+	AsmPowerOn : MC_BR_AsmPowerOn_AcpTrak;
+	SecAddShuttle : MC_BR_SecAddShuttle_AcpTrak;
+	ElasticMoveVel : MC_BR_ElasticMoveVel_AcpTrak;
+	ShuttleAxis : McAxisType;
+	DEV_SnapshotTaker : TrakSnapCap;
+	DEV_SnapshotSpawner : TrakSnapSpawn;
+	State : USINT;
+	i : USINT;
+END_VAR

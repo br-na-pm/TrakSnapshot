@@ -1,0 +1,78 @@
+===================================================================================#
+This is a sample trak project for the purposes of testing out the snapshot feature.#
+===================================================================================#
+Function:                                                                          #
+50 shuttles move around the trak to move a product from station to station. This   #
+continues until the product is finished and unloaded or rejected and removed.      #
+                                                                                   #
+                                                                                   #
+Production stages:                                                                 #
+The product can exist in four different states. At each stage, the product becomes #
+harder/firmer and can be moved faster and accelerated quicker. The four stages and #
+their respective parameters are:                                                   #
+                                                                                   #
+1 YELLOW (Liquid)                                                                  #
+	veloctiy    = 0.5 m/s                                                          #
+	accel/decel = 5 m/s^2                                                          #
+	destination = stn 2                                                            #
+2 BLUE (Gel)                                                                       #
+	veloctiy    = 1 m/s                                                            #
+	accel/decel = 10 m/s^2                                                         #
+	destination = stn 3                                                            #
+3 ORANGE (Soft Solid)                                                              #
+	veloctiy    = 2 m/s                                                            #
+	accel/decel = 15 m/s^2                                                         #
+	destination = stn 4                                                            #
+4 GREEN (Solid)                                                                    #
+	veloctiy    = 2.5 m/s                                                          #
+	accel/decel = 20 m/s^2                                                         #
+	destination = stn 1 (offload)                                                  #
+                                                                                   #
+                                                                                   #
+Additional stages:                                                                 #
+The two additional stages are:                                                     #
+                                                                                   #
+1 GRAY (Empty Shuttle)                                                             #
+	veloctiy    = 4 m/s                                                            #
+	accel/decel = 20 m/s^2                                                         #
+	destination = stn 1                                                            #
+2 RED (Rejected Product)                                                           #
+	veloctiy    = retains speed based on matter state                              #
+	accel/decel = retains accel/decel based on matter state                        #
+	destination = stn 5 (liquids and gels) or stn 6 (Soft Solids and Solids)       #
+                                                                                   #
+                                                                                   #
+Station Descriptions:                                                              #
+                                                                                   #
+1 Load/Unload                                                                      #
+	Empty shuttles recieve a liquid product                                        #
+	GRAY -> YELLOW                                                                 #
+	Goes to stn 2                                                                  #
+	Finished solid products are removed and the empty shuttles are sent around     #
+	GREEN -> GREY                                                                  #
+	Goes to stn 1                                                                  #
+2 Process 1                                                                        #
+	Liquid products are made into gels                                             #
+	YELLOW -> BLUE                                                                 #
+	Goes to stn 3                                                                  #
+3 Process 2                                                                        #
+	Gel products are made into soft solids                                         #
+	BLUE -> ORANGE                                                                 #
+	Goes to stn 4                                                                  #
+4 Process 3                                                                        #
+	Soft solid products are made into solids                                       #
+	ORANGE -> GREEN                                                                #
+	Goes to stn 1                                                                  #
+5 Reject 1                                                                         #
+	Rejected liquid and gel products are removed                                   #
+	RED -> GRAY                                                                    #
+	Goes to stn 1                                                                  #
+6 Reject 2                                                                         #
+	Rejected soft solid and solid products are removed                             #
+	RED -> GREY                                                                    #
+	Goes to stn 1                                                                  #
+                                                                                   #
+                                                                                   #
+At random times, stations will detect rejects, turn them red, and send them to the #
+appropriate reject stations.                                                       #
+===================================================================================#

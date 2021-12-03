@@ -1,0 +1,40 @@
+VAR
+	BarrierReadInfo : MC_BR_BarrierReadInfo_AcpTrak;
+END_VAR
+(**)
+(*Used in startup*)
+VAR
+	TrakState : TrakState_enum;
+	AsmPowerOn : MC_BR_AsmPowerOn_AcpTrak;
+	AsmGetShuttle : MC_BR_AsmGetShuttle_AcpTrak;
+	AsmData : UserDataTyp;
+	AsmCopyUserData : MC_BR_ShCopyUserData_AcpTrak;
+	AsmRoutedMoveAbs : MC_BR_RoutedMoveAbs_AcpTrak;
+	AsmIndex : UINT;
+	i : UINT;
+END_VAR
+(**)
+(*Used in stations*)
+VAR
+	Stn : ARRAY[1..10] OF UDINT;
+	StnState : ARRAY[1..6] OF StnState_enum;
+	TrgPointEnable : ARRAY[1..6] OF MC_BR_TrgPointEnable_AcpTrak;
+	TrgPointGetInfo : ARRAY[1..6] OF MC_BR_TrgPointGetInfo_AcpTrak;
+	StationData : ARRAY[1..6] OF UserDataTyp;
+	ShCopyUserData : ARRAY[1..6] OF MC_BR_ShCopyUserData_AcpTrak;
+	StnRoutedMoveAbs : ARRAY[1..6] OF MC_BR_RoutedMoveAbs_AcpTrak;
+	ShReadInfo : ARRAY[5..6] OF MC_BR_ShReadInfo_AcpTrak;
+	ShSwitchSector : ARRAY[5..6] OF MC_BR_ShSwitchSector_AcpTrak;
+	RejectIndex : ARRAY[1..6] OF USINT;
+	RejectRate : USINT := 15; (*Every n-th product willl be a reject*)
+END_VAR
+(**)
+(*UsedInGates*)
+VAR
+	ExitState : ARRAY[0..1] OF ExitState_enum;
+	GateTrgPointEnable : ARRAY[0..1] OF MC_BR_TrgPointEnable_AcpTrak;
+	GateTrgPointGetInfo : ARRAY[0..1] OF MC_BR_TrgPointGetInfo_AcpTrak;
+	GateBarrierCommand : ARRAY[0..1] OF MC_BR_BarrierCommand_AcpTrak;
+	GateInit : ARRAY[0..1] OF BOOL;
+	Temp_NumTickets : USINT;
+END_VAR

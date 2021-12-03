@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+	<Element Name="gDEV_SnapshotStructure" Type="PvParameter">
+		<Group ID="gDEV_SnapshotStructure">
+			<Group ID="UserData">
+				<Group ID="[0]">
+					<Property ID="Color" DataType="DINT" Value="0" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[1]">
+					<Property ID="Color" DataType="DINT" Value="0" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[2]">
+					<Property ID="Color" DataType="DINT" Value="5" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[3]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[4]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[5]">
+					<Property ID="Color" DataType="DINT" Value="2" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[6]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[7]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[8]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[9]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[10]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[11]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[12]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[13]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[14]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[15]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[16]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[17]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[18]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[19]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[20]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[21]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[22]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[23]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[24]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[25]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[26]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[27]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[28]">
+					<Property ID="Color" DataType="DINT" Value="1" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[29]">
+					<Property ID="Color" DataType="DINT" Value="0" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[30]">
+					<Property ID="Color" DataType="DINT" Value="3" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[31]">
+					<Property ID="Color" DataType="DINT" Value="2" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[32]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[33]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[34]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[35]">
+					<Property ID="Color" DataType="DINT" Value="0" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[36]">
+					<Property ID="Color" DataType="DINT" Value="0" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[37]">
+					<Property ID="Color" DataType="DINT" Value="0" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[38]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[39]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[40]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[41]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[42]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[43]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[44]">
+					<Property ID="Color" DataType="DINT" Value="2" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[45]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[46]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[47]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[48]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[49]">
+					<Property ID="Color" DataType="DINT" Value="4" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+				<Group ID="[50]">
+					<Property ID="Color" DataType="DINT" Value="0" />
+					<Property ID="ShuttleID" DataType="UINT" Value="0" />
+					<Property ID="StationNum" DataType="USINT" Value="0" />
+					<Group ID="ShuttleSerialNum">
+						<Property ID="[0]" DataType="USINT" Value="0" />
+						<Property ID="[1]" DataType="USINT" Value="0" />
+						<Property ID="[2]" DataType="USINT" Value="0" />
+						<Property ID="[3]" DataType="USINT" Value="0" />
+						<Property ID="[4]" DataType="USINT" Value="0" />
+						<Property ID="[5]" DataType="USINT" Value="0" />
+						<Property ID="[6]" DataType="USINT" Value="0" />
+						<Property ID="[7]" DataType="USINT" Value="0" />
+						<Property ID="[8]" DataType="USINT" Value="0" />
+						<Property ID="[9]" DataType="USINT" Value="0" />
+						<Property ID="[10]" DataType="USINT" Value="0" />
+						<Property ID="[11]" DataType="USINT" Value="0" />
+					</Group>
+				</Group>
+			</Group>
+			<Group ID="SegmentInfo">
+				<Group ID="[0]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.27415731262522058" />
+						<Property ID="[1]" DataType="LREAL" Value="0.055842687374779487" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_39" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[1]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.21069957947092324" />
+						<Property ID="[1]" DataType="LREAL" Value="0.11930042052907687" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_39" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[2]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.14724184631654949" />
+						<Property ID="[1]" DataType="LREAL" Value="0.18275815368345064" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_39" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[3]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.62806094920321598" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[4]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.55960208778398524" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[5]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.49114370668612473" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[6]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.35795704228843606" />
+						<Property ID="[1]" DataType="LREAL" Value="0.42268501419309912" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_49" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[7]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.42641477553147611" />
+						<Property ID="[1]" DataType="LREAL" Value="0.35422728095005906" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_49" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[8]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.28576954770918572" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[9]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.2173118144688333" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[10]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.14885408122849775" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[11]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.080396347987128358" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[12]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.67193861474794037" />
+						<Property ID="[1]" DataType="LREAL" Value="0.011938614747940335" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_26" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[13]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.60348088150795121" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[14]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.53568220802904054" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[15]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.46855051181655039" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[16]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.40252041320249876" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[17]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.33761504577951829" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[18]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.21935794340669856" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_03" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[19]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.12192616955644009" />
+						<Property ID="[1]" DataType="LREAL" Value="0.32871588692509413" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_22" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_10" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[20]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.54192616955644446" />
+						<Property ID="[3]" DataType="LREAL" Value="0.11807383044355557" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[21]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.42917021241868702" />
+						<Property ID="[3]" DataType="LREAL" Value="0.23082978758131301" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[22]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.36028817972899929" />
+						<Property ID="[3]" DataType="LREAL" Value="0.29971182027100074" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[23]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.29181523187475367" />
+						<Property ID="[3]" DataType="LREAL" Value="0.36818476812524636" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[24]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.22335691530938273" />
+						<Property ID="[3]" DataType="LREAL" Value="0.4366430846906173" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[25]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.15489915970483004" />
+						<Property ID="[3]" DataType="LREAL" Value="0.50510084029516999" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[26]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.086441425692373453" />
+						<Property ID="[3]" DataType="LREAL" Value="0.57355857430762658" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[27]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0.017983692439646037" />
+						<Property ID="[3]" DataType="LREAL" Value="0.64201630756035399" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="SEG_21" />
+						<Property ID="[3]" DataType="STRING" Value="SEG_11" />
+					</Group>
+				</Group>
+				<Group ID="[28]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.26581012981075414" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_36" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[29]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.10500000119209274" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_66" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[30]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.036520589846987153" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_27" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[31]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.14564205648153439" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_69" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[32]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.27893177426374738" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_13" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[33]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.16393177426374983" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_13" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[34]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.078784113074874124" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_25" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[35]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.041200630707149521" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_42" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[36]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.10965836395300332" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_42" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[37]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.17811609719726551" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_42" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[38]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.18942616955641556" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_24" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[39]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.074426169556418009" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_24" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[40]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.15650000018999033" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_45" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[41]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.27150000018999043" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_45" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[42]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.38650000018998953" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_45" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[43]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.050857943708452868" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_46" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[44]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.05147404071465278" />
+						<Property ID="[1]" DataType="LREAL" Value="0.39916801576688143" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_12" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_38" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[45]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.16585794370845042" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_46" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[46]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.040857943708447975" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_47" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[47]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.15585794370844552" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_47" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[48]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0.11993177396201604" />
+						<Property ID="[1]" DataType="LREAL" Value="0.33071028251951995" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="SEG_12" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_38" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[49]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0.048931774263752281" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="SEG_13" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+				<Group ID="[50]">
+					<Group ID="CurrentPosition">
+						<Property ID="[0]" DataType="LREAL" Value="0" />
+						<Property ID="[1]" DataType="LREAL" Value="0" />
+						<Property ID="[2]" DataType="LREAL" Value="0" />
+						<Property ID="[3]" DataType="LREAL" Value="0" />
+					</Group>
+					<Group ID="CurrentSegment">
+						<Property ID="[0]" DataType="STRING" Value="" />
+						<Property ID="[1]" DataType="STRING" Value="" />
+						<Property ID="[2]" DataType="STRING" Value="" />
+						<Property ID="[3]" DataType="STRING" Value="" />
+					</Group>
+				</Group>
+			</Group>
+			<Group ID="ShuttleInfo">
+				<Group ID="[0]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="9.8266211969007049" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[1]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="9.8900789300550063" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[2]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="2.9690422667583136" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_3_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[3]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="4.770791389797771" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.50003647804260254" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[4]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="4.8392502512170088" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.50002121925354004" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[5]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="4.9077086323148658" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.50001251697540283" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.4050000011920929" />
+					<Property ID="TargetSector" DataType="STRING" Value="Reject_RightUp" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[6]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="4.9761673248078981" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[7]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.04462505805094" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[8]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.113082791291812" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[9]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.1815405245321644" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[10]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.2499982577725" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[11]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.3184559910138711" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[12]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.3869137242530591" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[13]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.4553714574930483" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[14]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.5231701309719554" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[15]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.5903018271844438" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[16]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.6563319257984972" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[17]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.7212372932214777" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[18]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="2.4650000000000198" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="1" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[19]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.724999999999949" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="1" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[20]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.9649999999999483" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="1" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[21]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.0777559571377076" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.50425171852111816" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[22]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.1466379898273846" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.50014364719390869" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[23]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.2151109376816356" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.50000548362731934" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[24]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.2835692542470083" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5000002384185791" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[25]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.3520270098515628" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[26]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.4204847438640176" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[27]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.4889424771167414" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[28]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="7.3824001527087058" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="1" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_2_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[29]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="0.53999999999996817" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="4" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.4050000011920929" />
+					<Property ID="TargetSector" DataType="STRING" Value="Flipper_RightUp" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[30]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="4.7023317491540082" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.50006222724914551" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[31]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="12.666420564927135" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.4050000011920929" />
+					<Property ID="TargetSector" DataType="STRING" Value="Reject_RightUp" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[32]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="6.0074999999999248" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[33]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.8924999999999272" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[34]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="3.1874999999999809" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[35]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="3.9081268002635445" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="4" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.0040000001899898052" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[36]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="3.9765845335093948" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="4" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.0040000001899898052" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[37]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="4.045042266753657" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="4" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.0040000001899898052" />
+					<Property ID="TargetSector" DataType="STRING" Value="Load_Unload_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[38]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="3.5274999999999719" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[39]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="3.6424999999999765" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[40]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="0.81250000000003431" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[41]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="0.92750000000003263" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[42]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="1.0425000000000335" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[43]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="1.1575000000000293" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[44]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.1190422667525768" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.4050000011920929" />
+					<Property ID="TargetSector" DataType="STRING" Value="Reject_RightUp" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[45]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="1.2725000000000233" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[46]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="1.3875000000000173" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[47]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="1.5025000000000184" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[48]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.1874999999999432" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[49]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="5.7774999999999261" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0.5" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0.004999999888241291" />
+					<Property ID="TargetSector" DataType="STRING" Value="Process_1_Sector" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+				<Group ID="[50]">
+					<Property ID="CurrentPosition" DataType="LREAL" Value="0" />
+					<Property ID="CurrentSector" DataType="STRING" Value="" />
+					<Property ID="CurrentVelocity" DataType="REAL" Value="0" />
+					<Property ID="TargetPosition" DataType="LREAL" Value="0" />
+					<Property ID="TargetSector" DataType="STRING" Value="" />
+					<Property ID="VelocityAtDestination" DataType="REAL" Value="0" />
+				</Group>
+			</Group>
+		</Group>
+	</Element>
+</DATA>

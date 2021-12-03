@@ -1,0 +1,10 @@
+VAR
+	gShuttleMon : McAcpTrakAssemblyMonData;
+END_VAR
+VAR RETAIN
+	gDEV_SnapshotStructure : TrakSnap_type;
+END_VAR
+VAR
+	gPowerOn : BOOL;
+	gTrakRunning : BOOL;
+END_VAR
