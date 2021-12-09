@@ -13,13 +13,14 @@
 
 FUNCTION_BLOCK TrakSnapCap
 	
-	Internal.FB.GetTime.enable          := Enable;
-	Internal.CurrentDateTime            := Internal.FB.GetTime.DT1;
-	Internal.FB.DTRecipeConverter.Input := DT_TO_UDINT(Internal.CurrentDateTime);
+	Internal.FB.GetTime.enable           := Enable;
+	Internal.CurrentDateTime             := Internal.FB.GetTime.DT1;
+	Internal.FB.DTRecipeConverter.Input  := DT_TO_UDINT(Internal.CurrentDateTime);
+	Internal.FB.DTRecipeConverter.Offset := EPOCH_OFFSET;
 	IF (Enable AND NOT Internal.FB.DTRecipeConverter.Execute) THEN
 		Internal.FB.DTRecipeConverter.Execute := TRUE;
 	END_IF
-	Internal.CurrentDateTime_Str        := Internal.FB.DTRecipeConverter.DTString_For_Recipe;
+	Internal.CurrentDateTime_Str         := Internal.FB.DTRecipeConverter.DTString_For_Recipe;
 	
 	Internal.FB.RecipeXML.Enable     := Enable;
 	Internal.FB.RecipeXML.MpLink     := ADR(RecipeLink);
@@ -81,8 +82,9 @@ FUNCTION_BLOCK TrakSnapCap
 				Internal.FB.AsmGetShuttle.Next := TRUE;
 				Internal.State                 := SNAPCAP_GET_SHUTTLES;
 			ELSE
-				//Update the count, and configure the ShReadSegmentInfo & ShReadInfo FUBs
-				NumShuttlesFound := Internal.FB.AsmGetShuttle.TotalCount;
+				//Update the count for the FUB and the recipe, and configure the ShReadSegmentInfo & ShReadInfo FUBs
+				NumShuttlesFound                   := Internal.FB.AsmGetShuttle.TotalCount;
+				TrakSnapStructure.NumShuttlesFound := Internal.FB.AsmGetShuttle.TotalCount;
 				FOR Internal.Index:=0 TO (NumShuttlesFound-1) DO
 					Internal.FB.ShReadSegmentInfo[Internal.Index].Axis   := ADR(Internal.Shuttles[Internal.Index]);
 					Internal.FB.ShReadSegmentInfo[Internal.Index].Enable := TRUE;

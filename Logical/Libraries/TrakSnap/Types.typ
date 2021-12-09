@@ -5,6 +5,7 @@ TYPE
 		UserData : ARRAY[0..TRAKSNAP_NUM_SHUTTLES]OF UserDataTyp; (*User data for the shuttles*)
 		SegmentInfo : ARRAY[0..TRAKSNAP_NUM_SHUTTLES]OF SegmentInfo_type; (*Position and orientation output from the ShReadSecPos FUB*)
 		ShuttleInfo : ARRAY[0..TRAKSNAP_NUM_SHUTTLES]OF ShuttleInfo_type; (*Abbreviated output of the ShReadInfo FUB*)
+		NumShuttlesFound : UINT;
 	END_STRUCT;
 END_TYPE
 
@@ -98,6 +99,7 @@ TYPE
 		State : TrakSnapSpawnState_enum;
 		FB : TrakSnapSpawnInternalFB_type;
 		Shuttles : ARRAY[0..TRAKSNAP_NUM_SHUTTLES]OF McAxisType;
+		NumShuttles : UINT;
 		Index : UINT;
 		SegmentSector : SegmentSector_type;
 		SectorReference : UDINT;

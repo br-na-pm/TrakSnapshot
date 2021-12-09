@@ -30,7 +30,6 @@ FUNCTION_BLOCK TrakSnapSpawn (*Function block that spawns all shuttles and their
 		TrakSnapStructureName : {REDUND_UNREPLICABLE} STRING[100];
 		RecipeLink : REFERENCE TO MpComIdentType;
 		SnapshotToLoad : STRING[100];
-		NumShuttles : UINT;
 	END_VAR
 	VAR_OUTPUT
 		Active : BOOL;

@@ -65,6 +65,7 @@ FUNCTION_BLOCK TrakSnapSpawn
 				Internal.State := SNAPSPAWN_ERROR;
 			ELSIF Internal.FB.RecipeXML.CommandDone THEN
 				Internal.FB.RecipeXML.Load         := FALSE;
+				Internal.NumShuttles               := TrakSnapStructure.NumShuttlesFound;
 				Internal.Index                     := 0;
 				IF (0 <> brsstrcmp(ADR(TrakSnapStructure.ShuttleInfo[Internal.Index].CurrentSector),ADR(''))) THEN
 					//If the shuttle was on a user defined sector (the sector name is not empty), spawn it on that sector
@@ -164,7 +165,7 @@ FUNCTION_BLOCK TrakSnapSpawn
 			ELSIF Internal.FB.ShCopyUserData.Done THEN
 				Internal.FB.ShCopyUserData.Execute := FALSE;
 				//Check if there are more shuttles to spawn and move on
-				IF (Internal.Index = (NumShuttles - 1)) THEN
+				IF (Internal.Index = (Internal.NumShuttles - 1)) THEN
 					Done           := TRUE;
 					Internal.State := SNAPSPAWN_DONE;
 				ELSE
